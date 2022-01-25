@@ -1,0 +1,7 @@
+group,sample,read1,read2
+HBR,HBR_Rep2_ERCC-Mix2,/home/xingau/workflow/ercc_samples/samples/HBR_Rep2_ERCC-Mix2_Build37-ErccTranscripts-chr22.read1.fastq,/home/xingau/workflow/ercc_samples/samples/HBR_Rep2_ERCC-Mix2_Build37-ErccTranscripts-chr22.read2.fastq
+HBR,HBR_Rep3_ERCC-Mix2,/home/xingau/workflow/ercc_samples/samples/HBR_Rep3_ERCC-Mix2_Build37-ErccTranscripts-chr22.read1.fastq,/home/xingau/workflow/ercc_samples/samples/HBR_Rep3_ERCC-Mix2_Build37-ErccTranscripts-chr22.read2.fastq
+UHR,UHR_Rep3_ERCC-Mix1,/home/xingau/workflow/ercc_samples/samples/UHR_Rep3_ERCC-Mix1_Build37-ErccTranscripts-chr22.read1.fastq,/home/xingau/workflow/ercc_samples/samples/UHR_Rep3_ERCC-Mix1_Build37-ErccTranscripts-chr22.read2.fastq
+HBR,HBR_Rep1_ERCC-Mix2,/home/xingau/workflow/ercc_samples/samples/HBR_Rep1_ERCC-Mix2_Build37-ErccTranscripts-chr22.read1.fastq,/home/xingau/workflow/ercc_samples/samples/HBR_Rep1_ERCC-Mix2_Build37-ErccTranscripts-chr22.read2.fastq
+UHR,UHR_Rep1_ERCC-Mix1,/home/xingau/workflow/ercc_samples/samples/UHR_Rep1_ERCC-Mix1_Build37-ErccTranscripts-chr22.read1.fastq,/home/xingau/workflow/ercc_samples/samples/UHR_Rep1_ERCC-Mix1_Build37-ErccTranscripts-chr22.read2.fastq
+UHR,UHR_Rep2_ERCC-Mix1,/home/xingau/workflow/ercc_samples/samples/UHR_Rep2_ERCC-Mix1_Build37-ErccTranscripts-chr22.read1.fastq,/home/xingau/workflow/ercc_samples/samples/UHR_Rep2_ERCC-Mix1_Build37-ErccTranscripts-chr22.read2.fastq

@@ -1,0 +1,7 @@
+pair_id,bam_path,bai_path
+HBR_Rep1,/home/xingau/workflow/ercc_samples/align_samples/bam/HBR_Rep1.bam,/home/xingau/workflow/ercc_samples/align_samples/bam/HBR_Rep1.bam.bai
+HBR_Rep2,/home/xingau/workflow/ercc_samples/align_samples/bam/HBR_Rep2.bam,/home/xingau/workflow/ercc_samples/align_samples/bam/HBR_Rep2.bam.bai
+HBR_Rep3,/home/xingau/workflow/ercc_samples/align_samples/bam/HBR_Rep3.bam,/home/xingau/workflow/ercc_samples/align_samples/bam/HBR_Rep3.bam.bai
+UHR_Rep1,/home/xingau/workflow/ercc_samples/align_samples/bam/UHR_Rep1.bam,/home/xingau/workflow/ercc_samples/align_samples/bam/UHR_Rep1.bam.bai
+UHR_Rep2,/home/xingau/workflow/ercc_samples/align_samples/bam/UHR_Rep2.bam,/home/xingau/workflow/ercc_samples/align_samples/bam/UHR_Rep2.bam.bai
+UHR_Rep3,/home/xingau/workflow/ercc_samples/align_samples/bam/UHR_Rep3.bam,/home/xingau/workflow/ercc_samples/align_samples/bam/UHR_Rep3.bam.bai
